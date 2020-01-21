@@ -15,7 +15,9 @@ Version history:
     0.5.4 triggerPIN / buzzerPIN Webconfig attached / Webinterface
     0.5.5 BackGround remove
     0.5.6 10/01/2020 Repeat function add
-    0.6.0 11/01/2020 Change (call Webconfig Mode at uper left corner on Touchscreen near CPU) add TOUCHMAP 0 or 1 to inverse TOP/BOTTEM coordinates configuration in Webinterface TOUCH MAP true / false some ILI9341 models have the touchscreen foil wrong/reverse
+    0.6.0 11/01/2020 Change (call Webconfig Mode at uper left corner on Touchscreen near CPU) 
+    *add TOUCHMAP 0 or 1 to inverse TOP/BOTTEM coordinates configuration in Webinterface 
+    *TOUCH MAP true / false some ILI9341 models have the touchscreen foil wrong/reverse
 
 What is it doing: Play the playlist and show/control the status of the FPP player Playlist is automatically sent and updated by the master (FPP) to the Display. Playlist overview with sequence and playing time. The temperature status of the Raspberry is monitored Control (play Stop next prev select) via touch screen change control the repeatstatus/option
 
