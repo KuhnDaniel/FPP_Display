@@ -6,8 +6,8 @@
    ---------------------------------------------------
    Daniel Kuhn 12.2019 V0.1
    Built by Daniel Kuhn https://dkNetwork.de
-   Licensed under MIT license
-   Version: 0.1
+   GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
    Version Modified By   Date      Comments
    ------- -----------  ---------- -----------
