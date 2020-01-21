@@ -3,7 +3,7 @@
 
 Steuerung des F-Players (Playliste und Status) auf dem Raspberry (MQTT) Control of the F-Player (playlist and status) on the Raspberry (MQTT) First DemoVideo: https://youtu.be/uxZQKN3vWPk
 
-![Bild](https://github.com/KuhnDaniel/FPP-RD-Control/blob/master/FPP-RD-Control-Bild.png)
+![Bild](https://github.com/KuhnDaniel/FPP_Display/blob/master/FPP-RD-Control-Bild.png)
 
     Based on the ArduiTouch ESP from zihatec (https://www.hwhardsoft.de)
     Falcon Player FPP on the Raspberry / MQTT Server https://github.com/FalconChristmas
